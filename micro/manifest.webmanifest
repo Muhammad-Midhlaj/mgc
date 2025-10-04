@@ -1,0 +1,20 @@
+{
+	"name": "Micro",
+	"description": "Micro is an all-in-one workspace for email, CRM, and project management that organizes itself.",
+	"keywords": [
+		"email",
+		"CRM",
+		"project management",
+		"sales",
+		"fundraising",
+		"recruiting",
+		"automation",
+		"AI"
+	],
+	"start_url": "/",
+	"display": "browser",
+	"background_color": "#0f1013",
+	"theme_color": "#0f1013",
+	"lang": "en",
+	"dir": "ltr"
+}
